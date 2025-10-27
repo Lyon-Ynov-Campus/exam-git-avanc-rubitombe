@@ -16,4 +16,7 @@ go run main.go
 
 Le serveur sera accessible sur http://localhost:8080
 
+git revert crée un nouveau commit pour suprimer l'ancien et garde un historique pour les autres 
+git reset va a une version anterieur du repo
+
 exercice 6
