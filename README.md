@@ -15,5 +15,3 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
-
-exercice 6
